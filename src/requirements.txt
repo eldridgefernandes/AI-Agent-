@@ -1,0 +1,9 @@
+argparse
+os
+shutil
+chromadb
+torch
+pandas
+OpenAI
+tkinter
+re
